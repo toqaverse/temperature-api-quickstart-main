@@ -2,7 +2,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-api_key = st.secrets["a4fda3290e2147791e14c33b1d10f2fa"]
+api_key = st.secrets["GOOGLE_MAPS_API_KEY"]
 
 # =========================================================
 # PAGE CONFIG
